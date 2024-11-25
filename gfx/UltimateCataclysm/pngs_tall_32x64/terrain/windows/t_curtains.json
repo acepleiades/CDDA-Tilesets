@@ -1,0 +1,54 @@
+[
+    {
+        "id": "t_curtains",
+        "fg": "t_curtains_we",
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "center",
+                "fg": "t_curtains_we"
+            },
+            {
+                "id": "corner",
+                "fg": [
+                    "t_curtains_we",
+                    "t_curtains_we",
+                    "t_curtains_we",
+                    "t_curtains_we"
+                ]
+            },
+            {
+                "id": "t_connection",
+                "fg": [
+                    "t_curtains_we",
+                    "t_curtains_we",
+                    "t_curtains_we",
+                    "t_curtains_we"
+                ]
+            },
+            {
+                "id": "edge",
+                "fg": [
+                    "t_curtains_ns",
+                    "t_curtains_we"
+                ]
+            },
+            {
+                "id": "end_piece",
+                "fg": [
+                    "t_curtains_we",
+                    "t_curtains_we",
+                    "t_curtains_we",
+                    "t_curtains_we"
+                ]
+            },
+            {
+                "id": "unconnected",
+                "fg": [
+                    "t_curtains_we",
+                    "t_curtains_we"
+                ]
+            }
+        ]
+    }
+]

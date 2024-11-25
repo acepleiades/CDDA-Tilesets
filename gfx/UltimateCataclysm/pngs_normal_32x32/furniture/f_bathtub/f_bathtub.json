@@ -1,17 +1,14 @@
 {
   "id": "f_bathtub",
-  "multitile": true,
   "fg": "f_bathtub_unconnected",
-  "bg": "",
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "center",
-      "bg": "",
       "fg": "f_bathtub_center"
     },
     {
       "id": "corner",
-      "bg": "",
       "fg": [
         "f_bathtub_corner_nw",
         "f_bathtub_corner_sw",
@@ -21,7 +18,6 @@
     },
     {
       "id": "t_connection",
-      "bg": "",
       "fg": [
         "f_bathtub_t_connection_n",
         "f_bathtub_t_connection_w",
@@ -31,7 +27,6 @@
     },
     {
       "id": "edge",
-      "bg": "",
       "fg": [
         "f_bathtub_edge_ns",
         "f_bathtub_edge_ew"
@@ -39,7 +34,6 @@
     },
     {
       "id": "end_piece",
-      "bg": "",
       "fg": [
         "f_bathtub_end_piece_n",
         "f_bathtub_end_piece_w",
@@ -48,9 +42,11 @@
       ]
     },
     {
-      "bg": "",
       "id": "unconnected",
-      "fg": [ "f_bathtub_unconnected", "f_bathtub_unconnected" ]
+      "fg": [
+        "f_bathtub_unconnected",
+        "f_bathtub_unconnected"
+      ]
     }
   ]
 }

@@ -1,0 +1,54 @@
+[
+    {
+        "id": "t_window_boarded",
+        "fg": "t_window_boarded_we",
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "center",
+                "fg": "t_window_boarded_we"
+            },
+            {
+                "id": "corner",
+                "fg": [
+                    "t_window_boarded_we",
+                    "t_window_boarded_we",
+                    "t_window_boarded_we",
+                    "t_window_boarded_we"
+                ]
+            },
+            {
+                "id": "t_connection",
+                "fg": [
+                    "t_window_boarded_we",
+                    "t_window_boarded_we",
+                    "t_window_boarded_we",
+                    "t_window_boarded_we"
+                ]
+            },
+            {
+                "id": "edge",
+                "fg": [
+                    "t_window_boarded_ns",
+                    "t_window_boarded_we"
+                ]
+            },
+            {
+                "id": "end_piece",
+                "fg": [
+                    "t_window_boarded_we",
+                    "t_window_boarded_we",
+                    "t_window_boarded_we",
+                    "t_window_boarded_we"
+                ]
+            },
+            {
+                "id": "unconnected",
+                "fg": [
+                    "t_window_boarded_we",
+                    "t_window_boarded_we"
+                ]
+            }
+        ]
+    }
+]
