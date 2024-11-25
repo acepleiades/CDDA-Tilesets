@@ -1,0 +1,106 @@
+[
+    {
+        "id": "t_door_c",
+        "fg": "t_door_c_ns",
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "center",
+                "fg": "t_door_c_ns"
+            },
+            {
+                "id": "corner",
+                "fg": [
+                    "t_door_c_ns",
+                    "t_door_c_ns",
+                    "t_door_c_ns",
+                    "t_door_c_ns"
+                ]
+            },
+            {
+                "id": "t_connection",
+                "fg": [
+                    "t_door_c_ns",
+                    "t_door_c_ns",
+                    "t_door_c_ns",
+                    "t_door_c_ns"
+                ]
+            },
+            {
+                "id": "edge",
+                "fg": [
+                    "t_door_c_we",
+                    "t_door_c_ns"
+                ]
+            },
+            {
+                "id": "end_piece",
+                "fg": [
+                    "t_door_c_ns",
+                    "t_door_c_ns",
+                    "t_door_c_ns",
+                    "t_door_c_ns"
+                ]
+            },
+            {
+                "id": "unconnected",
+                "fg": [
+                    "t_door_c_ns",
+                    "t_door_c_ns"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "t_door_o",
+        "fg": "t_door_o_ns",
+        "multitile": true,
+        "additional_tiles": [
+            {
+                "id": "center",
+                "fg": "t_door_o_ns"
+            },
+            {
+                "id": "corner",
+                "fg": [
+                    "t_door_o_ns",
+                    "t_door_o_ns",
+                    "t_door_o_ns",
+                    "t_door_o_ns"
+                ]
+            },
+            {
+                "id": "t_connection",
+                "fg": [
+                    "t_door_o_ns",
+                    "t_door_o_ns",
+                    "t_door_o_ns",
+                    "t_door_o_ns"
+                ]
+            },
+            {
+                "id": "edge",
+                "fg": [
+                    "t_door_o_we",
+                    "t_door_o_ns"
+                ]
+            },
+            {
+                "id": "end_piece",
+                "fg": [
+                    "t_door_o_ns",
+                    "t_door_o_ns",
+                    "t_door_o_ns",
+                    "t_door_o_ns"
+                ]
+            },
+            {
+                "id": "unconnected",
+                "fg": [
+                    "t_door_o_ns",
+                    "t_door_o_ns"
+                ]
+            }
+        ]
+    }
+]
